@@ -1,10 +1,13 @@
 # Central de Contato WhatsApp com Agentes de IA e RAG
 
-**Documento de Arquitetura Técnica e de Produto**  
+**Documento de Arquitetura Técnica**  
+**Produto:** [Whats Brain — Pitch](./pitch-whats-brain.md) *(documento principal de produto)*  
 **Versão:** 1.0  
 **Stack principal:** Go (Golang)  
 **Canal:** WhatsApp Business Platform (Cloud API / Meta)  
 **Status:** Proposta técnica completa para implementação
+
+> Leia primeiro o [pitch do projeto](./pitch-whats-brain.md) (problema, solução e como funciona). Este arquivo detalha a engenharia.
 
 ---
 
